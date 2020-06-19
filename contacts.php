@@ -149,9 +149,7 @@ else
     });
   }
 </script>
-<script type="text/javascript" async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB8fK6--LfgzTtMyYB3Q3UevTaX_twxKtI&callback=initMap">
-  
-</script>
+
 		<!-- /map -->
 		
 		<div class="container margin_60_35">
